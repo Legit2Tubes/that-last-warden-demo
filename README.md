@@ -15,10 +15,6 @@ extract the entire archive, and launch **TheLastWarden.exe**. Keep its `.pck` fi
 beside it. Godot, an account, and an internet connection are not required to play.
 Compare the download with the SHA-256 listed in the release notes.
 
-**Release staging notice:** this demo is prepared for review. Public distribution
-awaits confirmation of the supplied art and music licenses; see [credits](CREDITS.md).
-No download has been published by this staging document.
-
 ## Controls
 
 | Action | Keyboard |
@@ -78,5 +74,4 @@ demo version, Windows version, GPU, resolution/window size, control method,
 expected and actual behavior, and steps to reproduce. Screenshots help; avoid
 posting personal data from your computer.
 
-See [release notes](release-notes.md) and [credits and license status](CREDITS.md).
-Godot and bundled third-party license notices are included with the download.
+See [release notes](release-notes.md)
