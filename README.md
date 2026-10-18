@@ -3,7 +3,7 @@
 
 **[Download the Windows Demo](https://github.com/Legit2Tubes/that-last-warden-demo/releases/latest)**
 
-**[View Release Notes](https://github.com/Legit2Tubes/that-last-warden-demo/releases)**
+**[View Release Notes](https://github.com/Legit2Tubes/that-last-warden-demo/blob/main/RELEASENOTES.md)**
 
 Download the Windows ZIP from the release's **Assets** section, extract it, and launch `TheLastWarden.exe`.
 
